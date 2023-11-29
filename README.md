@@ -3,7 +3,6 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>![BooksReadGIF](https://github.com/ByeongGwan31/ByeongGwan31/assets/73034224/53363ae2-6c9f-4e33-b1ee-79319ae856d9)
 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
