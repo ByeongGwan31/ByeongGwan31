@@ -13,8 +13,12 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor="white">
   <br>
-  
+
+  <br>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
+  <br>
+
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=Qgis&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
