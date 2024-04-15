@@ -1,7 +1,7 @@
 # Hi! 👋
 
-**
-**I'm ByeongGwan Kang, I am a Korean college student studying data analysis.**
+**I'm ByeongGwan Kang, I am a Korean college student studying data analysis**
+
 
 ---
 
