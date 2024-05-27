@@ -44,4 +44,4 @@
 - 백석대학교 미래융합기술 연구소 연구보조원 (2024.04 ~)
 - 백석대학교 컴퓨터공학부 (2019.03 ~ )
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongGwan31)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongGwan31_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
